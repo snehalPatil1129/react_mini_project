@@ -1,1 +1,4 @@
 export const STORE_PRODUCTS = "STORE_PRODUCTS";
+export const CHANGE_PRODUCT_CATEGORY = "CHANGE_PRODUCT_CATEGORY";
+export const ADD_TO_CART = "ADD_TO_CART";
+export const LOG_ERROR = "LOG_ERROR";
